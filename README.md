@@ -41,6 +41,6 @@
 
 ## 📊 GitHub Stats
 
-![Prameswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=**your-username-here**&show_icons=true&theme=radical)
+![Prameswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=**prameswarinaladita**&show_icons=true&theme=radical)
 
 > _“Ngoding iku ora mung logika, nanging rasa & estetika.”_
